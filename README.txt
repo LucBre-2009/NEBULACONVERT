@@ -20,8 +20,7 @@ Quick start
 .\Install-NEBULACONVERT-Dependencies.ps1 
 ```
 ```text
-Das ist dein Text, der in der grauen Box steht.
-Jeder kann ihn über den Button oben rechts kopieren.
+Hier steht dein Text
 ```
 
 
