@@ -19,6 +19,10 @@ Quick start
 ```powershell
 .\Install-NEBULACONVERT-Dependencies.ps1 
 ```
+```text
+Das ist dein Text, der in der grauen Box steht.
+Jeder kann ihn über den Button oben rechts kopieren.
+```
 
 
 The PowerShell script installs only the Python packages listed in `requirements.txt`. It does not build an EXE or install optional external conversion engines.
