@@ -11,19 +11,14 @@ Requirements
 
 
 Quick start
-1. Extract the entire ZIP to a folder.
-2. Install Python from https://www.python.org/downloads/windows/ if it is not already installed. During setup, enable **Add python.exe to PATH**.
-3. Right-click `Install-NEBULACONVERT-Dependencies.ps1` and choose **Run with PowerShell**, or open PowerShell in this folder and run:
+1. Download the NEBULACONVERT.zip from https://github.com/LucBre-2009/NEBULACONVERT/releases
+2. Extract the entire ZIP to a folder.
+3. Install Python from https://www.python.org/downloads/windows/ if it is not already installed. During setup, enable **Add python.exe to PATH**.
+4. Right-click `Install-NEBULACONVERT-Dependencies.ps1` and choose **Run with PowerShell**, or open PowerShell in this folder and run:
 
-   ```powershell
-   .\Install-NEBULACONVERT-Dependencies.ps1
-   ```
 
-4. Start the app from this folder with:
+  ```  .\Install-NEBULACONVERT-Dependencies.ps1 ```
 
-   ```powershell
-   py -3 main.py
-   ```
 
 The PowerShell script installs only the Python packages listed in `requirements.txt`. It does not build an EXE or install optional external conversion engines.
 
